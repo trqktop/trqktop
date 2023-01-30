@@ -1,14 +1,12 @@
 
-<div
->
+<div>
 <h1 ><span>Hi there </span><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><span>, I'm Pavel<span></h1></a> 
 <h3 >Frontend-developer</h3>
-
   <h4>Connect with me:</h4>
   <a href="https://t.me/trqktor" rel="noreferrer" target="_blank"><img src="./icons/icons-tg.svg"
   ></a>
   <a class="footer__contact" href="mailto:trqktop@gmail.com" rel="noreferrer" target="_blank"><img src="./icons/icons8-gmail.svg"
-  ></a>
+  ></a><img width='60px' src='https://media.giphy.com/media/EOuaJZlRtY3htS2Fas/giphy.gif'>
  <h4>Languages and Tools:</h4>
  <div style='display:flex; gap:6px; margin-bottom:20px'>
   <a href="https://www.w3schools.com/html/" target="_blank"><img 
@@ -38,4 +36,5 @@
 
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trqktop&theme=solarized_dark)
+
 
